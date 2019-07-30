@@ -13,9 +13,9 @@ namespace Job.Web.Controllers
     {
         public ActionResult Index()
         {
-			var movie = new HomeModel() { Id = 1, Title = "Developer"};
+			var jobs = new HomeModel() { Id = 1, Title = "Developer"};
 			
-            return View(movie);
+            return View(jobs);
         }
     }
 }
