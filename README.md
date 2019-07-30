@@ -1,8 +1,7 @@
 # Job Project
 
-The project was initialized by following application framework.
-https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Core
-
+Based on ASP.NET Boilerplate Framework
+https://aspnetboilerplate.com/
 
 ## Installation steps:
 1. Create a database on lcoal database named "JobDb" 
